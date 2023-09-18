@@ -30,7 +30,7 @@ No | Tanggal | Renggiat | Ingfo
 + Nama Kota
   - Semarang
   - Bogor
-  - Timika
+  - Timika 
 + NIT
 + Hobi
 
