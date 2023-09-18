@@ -16,6 +16,17 @@ url: "0048"
 +[Instagram](https://instagram.com)
 
 
+## image
+![](https://staticg.sportskeeda.com/editor/2022/06/b4bf5-16556383242694-1920.jpg)
+
+
+## yt
+{{< youtube 745zY1Dvjag >}}
+
+
+#diagram
+
+
 ## table
 No | Tanggal | Renggiat | Ingfo
 :-: | :- | -: | :-:
