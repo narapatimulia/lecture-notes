@@ -9,7 +9,7 @@ math: true
 url: "0049"
 ---
 {{< toc >}}
-![](https://upload.wikimedia.org/wikipedia/id/thumb/d/d9/Logo_Sekolah_Tinggi_Intelijen_Negara.png/200px-Logo_Sekolah_Tinggi_Intelijen_Negara.png)
+![](https://upload.wikimedia.org/wikipedia/commons/9/9f/Akmil.png)
 
 
 
@@ -71,7 +71,7 @@ flowchart LR
   6 | 08.00 | Sersan Mayor Satu Taruna melaksanakan belajar mandiri di Gedung Smart Campus, Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan perkuliahan di Gedung Smart Campus, Gedung C Kol. Inf Zulkifli Lubis, dan DRC
   7 | 12.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna Muslim melaksanakan Sholat Dhuhur di Masjid Baitul Ilmi
   8 | 12.30 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Apel Makan Siang yang dilanjutkan dengan Makan Siang
-  9 | 14.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Unit Kegiatan Taruna (UKT) yang terdiri dari Drum Corps Genderanh Suling Canka Lokananta, Tarung Derajat
+  9 | 14.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Unit Kegiatan Taruna (UKT) yang terdiri dari Drum Corps Genderang Suling Canka Lokananta, Tarung Derajat
   10 | 18.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Sholat Maghrib di Masjid Baitul Ilmi
   11 | 18.30 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Apel Makan Malam yang dilanjutkan dengan Makan Malam
   12 | 20.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan belajar mandiri
