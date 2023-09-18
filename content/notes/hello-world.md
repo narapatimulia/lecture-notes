@@ -23,10 +23,19 @@ url: "0048"
 ## yt
 {{< youtube 745zY1Dvjag >}}
 
-
-#diagram
-
-
+## animation with svg
+{{< html >}}
+<svg style="background: #eee;">
+ <rect x="0" y="50" width="50">
+  <animate
+    attributeName="x"
+	from="0" to="300"
+	begin="0s" dur="3s"
+	repeatCount="indefinite" />
+ </rect>
+</svg>
+{{< /html >}}
+  
 ## table
 No | Tanggal | Renggiat | Ingfo
 :-: | :- | -: | :-:
