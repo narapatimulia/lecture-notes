@@ -1,9 +1,9 @@
 ---
 
-title: "Penerimaan Taruna/i STIN t.a. 2025/2026"
+title: "Penerimaan Taruna/i Akademi Militer t.a. 2025/2026"
 date: 2023-09-18T11:22:00+07:00
 authors: ['Mulia Narapati']
-tags: ['TARUNA', 'WORLD CLASS', 'INTELLIGENCE' ]
+tags: ['TARUNA', 'AKMIL', 'SI VIS PACEM PARABELLUM' ]
 draft: false
 math: true
 url: "0049"
@@ -13,12 +13,18 @@ url: "0049"
 
 
 
-## Latar Belakang STIN
-Ide dari pendirian sekolah ini dimulai tahun 2002 atas prakarsa Kepala Badan Intelijen Negara Jenderal TNI (Purn) Dr. A. M. Hendropriyono yang mengawali pendirian Sekolah Tinggi Intelijen Negara. Selanjutnya pada 9 Juli 2003 Presiden Republik Indonesia, Megawati Soekarnoputri meresmikan berdirinya STIN dan tahun 2004 dimulai kuliah perdana.
+## Latar Belakang AKMIL
+Sejarah Akademi Militer (Akmil) bermula dari didirikannya Militaire Academie (MA) Yogyakarta pada tanggal 31 Oktober 1945, atas perintah Kepala Staf Umum Tentara Keamanan Rakyat, Letnan Jenderal TNI Oerip Soemohardjo. Pada tahun 1950, MA Yogyakarta setelah meluluskan dua angkatan, karena alasan tehnis, ditutup untuk sementara dan taruna angkatan ketiga menyelesaikan pendidikannya di KMA Breda, Nederland. Pada kurun waktu yang sama diberbagai tempat lain (Malang, Mojoangung, Salatiga, Tangerang, Palembang, Bukit Tinggi, Brastagi, Prapat) didirikan Sekolah Perwira Darurat untuk memenuhi kebutuhan TNI AD / ABRI pada waktu itu.
+Pada tanggal 1 Januari 1951 di Bandung didirikan SPGi AD (Sekolah Perwira Genie Angkatan Darat), dan pada tanggal 23 September 1956 berubah menjadi ATEKAD (Akademi Teknik Angkatan Darat). Sementara itu pula pada tanggal 13 Januari 1951 didirikan pula P3AD (Pusat Pendidikan Perwira Angkatan Darat) di Bandung. Mengingat pada saat itu banyak sekolah perwira TNI AD, maka muncul gagasan dari pimpinan TNI AD untuk mendirikan suatu Akademi Militer, gagasan ini pertama kali dimunculkan pada sidang parlemen oleh Menteri Pertahanan pada tahun 1952. Setelah melalui berbagai proses, maka pada tanggal 11 Nopember 1957 pukul 11.00 Presiden RI Ir Soekarno selaku Panglima Tertinggi Angkatan Perang RI, meresmikan pembukaan kembali Akademi Militer Nasional yang berkedudukan di Magelang. Akademi Militer ini merupakan kelanjutan dari MA Yogyakarta dan taruna masukan tahun 1957 ini dinyatakan sebagai Taruna AMN angkatan ke-4.
+Pada tahun 1961 Akademi Militer Nasional Magelang di integrasikan dengan ATEKAD Bandung dengan nama Akademi Militer Nasional dan berkedudukan di Magelang.
+Mengingat pada saat itu masing-masing angkatan (AD, AL, AU dan Polri) memiliki Akademi, maka pada tanggal 16 Desember 1965 seluruh Akademi Angkatan (AMN, AAL, AAU dan AAK) diintegrasikan menjadi Akademi Angkatan Bersenjata Republik Indonesia (AKABRI). Sesuai dengan tuntutan tugas, maka pada tanggal 29 Januari 1967 Akabri di Magelang diresmikan menjadi Akabri Udarat, yang meliputi dua Akabri bagian di bawah satu pimpinan, yaitu Akabri Bagian Umum dan Akabri bagian Darat. Akabri Bagian Umum mendidik taruna TK-I selama satu tahun, termasuk Pendidikan Dasar Keprajuritan Chandradimuka, sedangkan Akabri bagian Darat mendidik taruna Akabri Bagian Darat mulai TK-II sampai dengan TK-IV. Pada tanggal 29 September 1979 Akabri Udarat berubah namanya menjadi Akabri Bagian Darat.
+Dalam rangka reorganisasi di lingkungan ABRI, maka pada tanggal 14 Juni 1984 Akabri Bagian Darat berubah namanya menjadi Akmil (Akademi Militer).
+Pada tanggal 1 April 1999 secara resmi Polri terpisah dari tiga angkatan lainnya, dan ABRI berubah menjadi TNI. Sejak itu pula Akademi Kepolisian terpisah dari AKABRI. Kemudian AKABRI berubah namanya menjadi Akademi TNI yang terdiri dari AKMIL, AAL, AAU.
+Berdasarkan Perpang Nomor :Perpang/ 28/ V/ 2008 tanggal 12 Mei 2008 Pendidikan Dasar Keprajuritan Chandradimuka dan Integratif Akademi TNI pola 12 bulan langsung dibawah Mako Akademi TNI. Kemudian AKMIL menyelenggarakan pendidikan khusus Taruna Angkatan Darat tingkat II, III dan IV.
 
 
-## Media Sosial
-+[Instagram](https://instagram.com/rekrutmenstin)
+## INFORMASI
++[WEBSITE OFFICIAL](https://akmil.ac.id)
 
 
 ## Syarat 
@@ -30,14 +36,14 @@ Ide dari pendirian sekolah ini dimulai tahun 2002 atas prakarsa Kepala Badan Int
 + Memiliki jiwa nasionalisme yang Tinggi
 
 
-## SELAYANG PANDANG STIN
-{{< youtube npr6hITUklw>}}
+## VIDEO TENTANG AKMIL
+{{< youtube dLrHMkfriiY>}}
 
 
-## Prestasi Taruna/i STIN
-![](https://cdn.antaranews.com/cache/1200x800/2020/08/14/A61C1A0B-7E2C-46D0-97CA-DECC1B91F1BE_1.jpeg)
-![](https://jejakkriminal.com/wp-content/uploads/2022/05/IMG-20220531-WA0041.jpg)
-![](https://apanel.bimbelakses.com/storage/photos/8/Mengenal%20Lebih%20Dekat%20Sekolah%20Tinggi%20Intelijen%20Negara%20(STIN)3.png)
+## Prestasi Taruna/i AKMIL
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLQgwsCeWY0Slh3ntST7AI9TGqHIkUUFN64tgA4uMvJstmSEif61WBpJMl9v27cTMnY5U-JYbm9fXCIwXB608bQ6qAGHgaorh_-RxfeHwFxDd5iRI3PgXsh_ui_iOKWrG1XPWq96WiSvMBriny65LOrcguoG44Lep6gPd47ucJ7G1XtimpBEvbhJcd/s970/FB_IMG_1657871669798.jpg)
+![](https://suarajelata.com/wp-content/uploads/2021/08/IMG-20210805-WA0088.jpg)
+![]()
 
 
 ## Perjalanan Taruna/i 
@@ -45,14 +51,14 @@ Ide dari pendirian sekolah ini dimulai tahun 2002 atas prakarsa Kepala Badan Int
 flowchart LR
     B --> I --> P --> O --> E
     B(("Calon Taruna (CATAR)"))
-    I(("Taruna/i Mula/Pratama (Tingkat I)"))
-    P(("Taruna/i Muda (Tingkat II)"))
-    O(("Taruna/i Madya (Tingkat III)"))
-    E(("Taruna/i Utama (Tingkat IV)"))
+    I(("Prajurit Taruna/Pratar (Tingkat I)"))
+    P(("Sersan Taruna (Tingkat II)"))
+    O(("Sersan Mayor Dua Taruna (Tingkat III)"))
+    E(("Sersan Mayor Satu Taruna (Tingkat IV)"))
 {{< /mermaid >}}
 
 
-## Kegiatan Taruna/i STIN
+## Kegiatan Taruna/i AKMIL
  + Hari Senin-Jumat
   
   No | Jam | Kegiatan
@@ -62,18 +68,18 @@ flowchart LR
   3 | 05.40 | Melaksanakan Pembersihan Sektor Umum dan Pribadi
   4 | 06.30 | Melaksanakan Apel Makan Pagi di Ruang Makan Letnan Jenderal TNI (Purn.) Arie Jeffry Kumaat
   5 | 07.30 | Melaksanakan Apel Pagi di Lapangan Hitam
-  6 | 08.00 | Taruna/i Utama melaksanakan belajar mandiri di Gedung Smart Campus, Taruna/i Madya, Muda, dan Pratama melaksanakan perkuliahan di Gedung Smart Campus, Gedung C Kol. Inf Zulkifli Lubis, dan DRC
-  7 | 12.00 | Taruna/i Utama, Madya, Muda, dan Pratama Muslim melaksanakan Sholat Dhuhur di Masjid Baitul Ilmi
-  8 | 12.30 | Taruna/i Utama, Madya, Muda, dan Pratama melaksanakan Apel Makan Siang yang dilanjutkan dengan Makan Siang
-  9 | 14.00 | Taruna/i Utama, Madya, Muda, dan Pratama melaksanakan Unit Kegiatan Taruna (UKT) yang terdiri dari Drum Corps Gita Sandi Astara Rajawali, Gita Mahaswara Orchestra and Choir Rajawali, Tarung Derajat
-  10 | 18.00 | Taruna/i Utama, Madya, Muda, dan Pratama melaksanakan Sholat Maghrib di Masjid Baitul Ilmi
-  11 | 18.30 | Taruna/i Utama, Madya, Muda, dan Pratama melaksanakan Apel Makan Malam yang dilanjutkan dengan Makan Malam
-  12 | 20.00 | Taruna/i Utama, Madya, Muda, dan Pratama melaksanakan belajar mandiri
-  13 | 21.00 | Taruna/i Utama, Madya, Muda, dan Pratama melaksanakan Apel Malam
-  14 | 22.00 | Taruna/i Utama, Madya, Muda, dan Pratama melaksanakan Istirahat Malam di Mess masing-masing
+  6 | 08.00 | Sersan Mayor Satu Taruna melaksanakan belajar mandiri di Gedung Smart Campus, Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan perkuliahan di Gedung Smart Campus, Gedung C Kol. Inf Zulkifli Lubis, dan DRC
+  7 | 12.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna Muslim melaksanakan Sholat Dhuhur di Masjid Baitul Ilmi
+  8 | 12.30 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Apel Makan Siang yang dilanjutkan dengan Makan Siang
+  9 | 14.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Unit Kegiatan Taruna (UKT) yang terdiri dari Drum Corps Genderanh Suling Canka Lokananta, Tarung Derajat
+  10 | 18.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Sholat Maghrib di Masjid Baitul Ilmi
+  11 | 18.30 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Apel Makan Malam yang dilanjutkan dengan Makan Malam
+  12 | 20.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan belajar mandiri
+  13 | 21.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Apel Malam
+  14 | 22.00 | Sersan Mayor Dua Taruna, Sersan Mayor, Prajurit Taruna melaksanakan Istirahat Malam di Mess masing-masing
   
   
-## Jumlah Pendaftar STIN menurut data BKN per Juni 2025
+## Jumlah Pendaftar AKMIL menurut data per Juni 2025
 {{< chart 90 200 >}}
 {
     type: 'bar',
